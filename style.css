@@ -1,0 +1,17 @@
+
+
+
+ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+
+}
+
+section.splashscreen {
+    background-image: url(http://realestateurl.net/wp-content/uploads/2016/12/Bedroom-Furniture-At-Homebase-80-with-Bedroom-Furniture-At-Homebase.jpg);
+    height: 600px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
